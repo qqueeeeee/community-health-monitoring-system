@@ -99,29 +99,6 @@ community-health-monitoring/
 
 ---
 
-## Why This Project Matters
-
-This project demonstrates:
-
-* Working with messy, real-world data
-* Time-based behavioral analysis
-* Retention-focused thinking
-* Tradeoff-aware system design
-* Avoidance of unnecessary overengineering
-
-It is designed to reflect how engagement analytics are handled in real communities, products, and platforms.
-
----
-
-## Future Extensions (Optional)
-
-* User-level churn risk flags
-* Drift detection on retention trends
-* Moderator-facing alerts
-* Cross-channel engagement analysis
-
----
-
 ## Ethical Considerations
 
 * No message content stored or analyzed
@@ -131,6 +108,4 @@ It is designed to reflect how engagement analytics are handled in real communiti
 
 ---
 
-## Author
 
-Built as an applied data science project focused on real-world behavioral analysis and interpretability.
