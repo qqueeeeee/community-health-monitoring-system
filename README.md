@@ -8,19 +8,6 @@ A data-driven system for monitoring the health of an online community using real
 
 Most community analytics focus on message counts or daily activity, which can be misleading. A server can appear active while slowly losing its core users. This project addresses that gap by tracking **weekly retention behavior** and translating it into interpretable health states.
 
-The system answers one central question:
-
-> *Is this community getting healthier, stagnating, or slowly declining — and why?*
-
----
-
-## Key Concepts
-
-* **Community health ≠ message volume**
-* Healthy communities are defined by **recurring participation**
-* Retention trends matter more than one-off activity spikes
-* Simple, explainable metrics outperform complex models in low-to-medium activity communities
-
 ---
 
 ## Data Source
